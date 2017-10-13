@@ -1,4 +1,4 @@
-package com.m4u.eventsourcing.infrastructure.json;
+package com.tecnoone.eventsourcing.infrastructure.json;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonProcessingException;

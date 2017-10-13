@@ -1,4 +1,4 @@
-package com.m4u.eventsourcing;
+package com.tecnoone.eventsourcing;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Configuration;

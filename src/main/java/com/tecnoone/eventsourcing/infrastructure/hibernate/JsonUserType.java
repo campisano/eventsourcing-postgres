@@ -1,7 +1,7 @@
-package com.m4u.eventsourcing.infrastructure.hibernate;
+package com.tecnoone.eventsourcing.infrastructure.hibernate;
 
-import com.m4u.eventsourcing.domain.event.eventstore.DomainEvent;
-import com.m4u.eventsourcing.infrastructure.json.JsonUtil;
+import com.tecnoone.eventsourcing.domain.event.eventstore.DomainEvent;
+import com.tecnoone.eventsourcing.infrastructure.json.JsonUtil;
 import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SessionImplementor;
 import org.hibernate.usertype.UserType;

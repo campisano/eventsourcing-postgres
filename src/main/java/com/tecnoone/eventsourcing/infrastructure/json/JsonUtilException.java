@@ -1,4 +1,4 @@
-package com.m4u.eventsourcing.infrastructure.json;
+package com.tecnoone.eventsourcing.infrastructure.json;
 
 /**
  * Created by raphael on 12/06/17.

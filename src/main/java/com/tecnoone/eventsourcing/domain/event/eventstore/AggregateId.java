@@ -1,4 +1,4 @@
-package com.m4u.eventsourcing.domain.event.eventstore;
+package com.tecnoone.eventsourcing.domain.event.eventstore;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
